@@ -22,3 +22,4 @@ This project performs spam vs ham classification and includes graphical analysis
    python main.py
    ```# -AI-Text-Classification-
 # Text-classification-project
+# AI-Text-Classification-HAM-SPAM
